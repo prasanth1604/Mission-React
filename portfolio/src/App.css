@@ -85,3 +85,20 @@
   top: 0;
   border-radius: 10px;
 }
+
+.image{
+  position: absolute;
+  text-align: center;
+  top: 15%;
+  left: 45%;
+  border-image: round;
+}
+
+.name{
+  position: absolute;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  left: 40%;
+  top: 30%;
+}
